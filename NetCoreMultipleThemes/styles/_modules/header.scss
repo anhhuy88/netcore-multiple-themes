@@ -1,0 +1,21 @@
+﻿$module: 'header';
+
+.#{$module}__content {
+    background: white;
+
+    .#{$module}__meta {
+        background: #f1f1f1;
+        border-top: 1px solid #eee;
+    }
+
+    .#{$module}--featured {
+
+        .#{$module}__meta {
+            background: pink;
+
+            &:hover {
+                color: red;
+            }
+        }
+    }
+}

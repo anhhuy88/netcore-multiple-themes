@@ -4,3 +4,5 @@ obj
 lib
 *.min.css
 *.min.js
+saaskit-master/
+node_modules

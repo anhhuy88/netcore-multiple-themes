@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2018
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetcoreMultipleThemes", "NetcoreMultipleThemes\NetcoreMultipleThemes.csproj", "{FB433C8B-72AE-4397-BE17-AB079D3E0C08}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreMultipleThemes", "NetCoreMultipleThemes\NetCoreMultipleThemes.csproj", "{F490DB14-FABA-408A-A413-019A60A6E97B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FB433C8B-72AE-4397-BE17-AB079D3E0C08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FB433C8B-72AE-4397-BE17-AB079D3E0C08}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FB433C8B-72AE-4397-BE17-AB079D3E0C08}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FB433C8B-72AE-4397-BE17-AB079D3E0C08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F490DB14-FABA-408A-A413-019A60A6E97B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F490DB14-FABA-408A-A413-019A60A6E97B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F490DB14-FABA-408A-A413-019A60A6E97B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F490DB14-FABA-408A-A413-019A60A6E97B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {CACB76AF-8A7C-430E-8E14-E431F1A50AF9}
+		SolutionGuid = {BBE1FC45-1733-4B16-8092-FA71F3CA40E3}
 	EndGlobalSection
 EndGlobal
